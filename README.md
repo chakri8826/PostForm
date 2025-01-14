@@ -38,7 +38,7 @@
   <h2>Contact</h2>
   <p>For any queries or feedback, feel free to reach out:</p>
   <ul>
-    <li><strong>Email</strong>kommuchakri8826@gmail.com</li>
+    <li>kommuchakri8826@gmail.com</li>
     <li><a href="https://www.linkedin.com/in/chakradharkommu/">LinkedIn</a></li>
   </ul>
 </body>
