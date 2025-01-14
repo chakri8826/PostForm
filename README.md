@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Post-Hub - README</title>
 </head>
 <body>
   <h1>Post-Hub</h1>
@@ -38,7 +37,7 @@
   <h2>Contact</h2>
   <p>For any queries or feedback, feel free to reach out:</p>
   <ul>
-    <li>kommuchakri8826@gmail.com</li>
+    <li><a href="kommuchakri8826@gmail.com">kommuchakri8826@gmail.com</a></li>
     <li><a href="https://www.linkedin.com/in/chakradharkommu/">LinkedIn</a></li>
   </ul>
 </body>
