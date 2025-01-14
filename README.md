@@ -25,25 +25,7 @@
     <li><strong>Styling</strong>: CSS/Bootstrap (if applicable)</li>
   </ul>
 
-  <h2>Installation</h2>
-  <ol>
-    <li>Clone the repository:
-      <pre><code>git clone &lt;repository-link&gt;
-cd post-hub</code></pre>
-    </li>
-    <li>Install dependencies:
-      <pre><code>npm install</code></pre>
-    </li>
-    <li>Set up Appwrite:
-      <ul>
-        <li>Configure Appwrite for user authentication and database storage.</li>
-        <li>Update the necessary credentials in the <code>.env</code> file.</li>
-      </ul>
-    </li>
-    <li>Start the development server:
-      <pre><code>npm start</code></pre>
-    </li>
-  </ol>
+  
 
   <h2>Usage</h2>
   <ol>
